@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.notes_app-merged_res-27:/mipmap-xxxhdpi_ic_launcher.jpeg.flat",
+        "source": "com.example.notes_app-main-21:/mipmap-xxxhdpi/ic_launcher.jpeg"
+    },
+    {
+        "merged": "/Users/sandunil/.gradle/daemon/7.5/com.example.notes_app-merged_res-27:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/sandunil/.gradle/daemon/7.5/com.example.notes_app-main-21:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sandunil/.gradle/daemon/7.5/com.example.notes_app-merged_res-27:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/sandunil/.gradle/daemon/7.5/com.example.notes_app-main-21:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.notes_app-merged_res-27:/mipmap-xxhdpi_ic_launcher.jpeg.flat",
+        "source": "com.example.notes_app-main-21:/mipmap-xxhdpi/ic_launcher.jpeg"
+    },
+    {
+        "merged": "/Users/sandunil/.gradle/daemon/7.5/com.example.notes_app-merged_res-27:/drawable-v21_launch_background.xml.flat",
+        "source": "/Users/sandunil/.gradle/daemon/7.5/com.example.notes_app-main-21:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "/Users/sandunil/.gradle/daemon/7.5/com.example.notes_app-merged_res-27:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/sandunil/.gradle/daemon/7.5/com.example.notes_app-main-21:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.notes_app-merged_res-27:/mipmap-hdpi_ic_launcher.jpeg.flat",
+        "source": "com.example.notes_app-main-21:/mipmap-hdpi/ic_launcher.jpeg"
+    },
+    {
+        "merged": "com.example.notes_app-merged_res-27:/mipmap-xhdpi_ic_launcher.jpeg.flat",
+        "source": "com.example.notes_app-main-21:/mipmap-xhdpi/ic_launcher.jpeg"
+    },
+    {
+        "merged": "com.example.notes_app-merged_res-27:/mipmap-mdpi_ic_launcher.jpeg.flat",
+        "source": "com.example.notes_app-main-21:/mipmap-mdpi/ic_launcher.jpeg"
+    },
+    {
+        "merged": "/Users/sandunil/.gradle/daemon/7.5/com.example.notes_app-merged_res-27:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/sandunil/.gradle/daemon/7.5/com.example.notes_app-main-21:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sandunil/.gradle/daemon/7.5/com.example.notes_app-merged_res-27:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/sandunil/.gradle/daemon/7.5/com.example.notes_app-main-21:/mipmap-hdpi/ic_launcher.png"
+    }
+]
